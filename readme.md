@@ -28,9 +28,10 @@ cd itstimetoleave_backend
 npm i
 node index.js
 ```
-Now open the `.env` file and enter your google maps api key.
+Now open the `.env` file and enter your google maps and elastic mail api keys.
 ```sh
 GOOGLEAPI = Your api key here
+EMAILAPI =  Your api key here
 
 ```
 This will locally run the Server on your Localhost 3000
